@@ -1,0 +1,159 @@
+body {
+    padding: 0 0 60px;
+    margin: 0;
+}
+
+.content {
+    padding-top: 6vh;
+}
+
+/* headers */
+
+.header {
+    display: flex;
+    justify-content: center;
+    background-size: cover;
+    background-position: center;
+    align-items: center;
+    padding: 4%;
+    
+}
+
+.header h1 {
+    flex: 1;
+    font-size: 200px;
+    text-align: center;
+    max-width: 100%;
+    font-family: 'Calligraffitti', cursive;
+    font-weight: 500;
+    margin: 3%;
+    text-shadow: 3px 3px 10px rgb(190, 190, 190);
+    color: black;
+}
+
+#homepage {
+    background-image: url("images/worldmapfull.png");
+}
+
+#godspage {
+    background-image: url("images/spacebc.jpg");
+}
+
+#eventspage {
+    background-image: url("images/eventsbc.jpg");
+}
+
+#campaignspage {
+    background-image: url("images/campaigns.png");
+}
+
+#campaignspage h1 {
+    
+}
+
+#figurespage {
+    background-image: url("images/figures.jpg");
+}
+
+/*headers end*/
+
+.page {
+    padding: 0 10%;
+    text-align: center;
+    font-size: 140%;
+}
+
+.subpage {
+    font-size: 140%;
+    padding: 0 15%;
+    display: flex;
+    flex-direction: column;
+}
+
+.subpage p {
+    margin: 5px 0;
+}
+
+.subpage h2 {
+    margin-bottom: 0;
+}
+
+.picbox {
+    margin-bottom: 1vh;
+}
+
+.pictext {
+    float: left;
+    width: 300px;
+    margin-right: 5px;
+}
+
+.picbox p {
+    margin-top: 0;
+}
+
+.godslink {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    
+}
+
+.firstword {
+    font-weight: bold;
+}
+
+.godslink:hover {
+    text-decoration: underline;
+}
+
+.godnames {
+    text-decoration: underline;
+}
+
+/* this is for the dropdown menu */
+
+.dropdown {
+    display: inline-block;
+    width: 0;
+    flex-grow: 1;
+    
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    font-size: 2vh;
+    position: relative;
+    
+}
+.dropbtn {
+    display: flex;
+    border: none;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    text-decoration: none;
+    
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    width: 10vw;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    overflow: auto;
+    max-height: 80vh;
+}
+.dropdown-content a {
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}  
+
+.dropdown:hover .dropdown-content {display: block;}
+
+/*jumps*/
+
+.scroll {
+    scroll-margin-top: 60px;
+}
