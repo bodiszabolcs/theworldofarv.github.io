@@ -51,19 +51,19 @@ function menu () {
     <div class="dropdown">
         <a class="dropbtn" href="gods.html">Gods</a>
         <div class="dropdown-content">
-            <a href="gods.html#elder-deities">Elder Deities</a>
-            <a href="gods.html#aeros">Aeros</a>
-            <a href="gods.html#aecor">Aecor</a>
-            <a href="gods.html#skog">Skog</a>
-            <a href="gods.html#ignis">Ignis</a>
-            <a href="gods.html#frig">Frig</a>
-            <a href="gods.html#mercurius">Mercurius</a>
-            <a href="gods.html#kunser">Kunser</a>
-            <a href="gods.html#krieg">Krieg</a>
-            <a href="gods.html#dolus">Dolus</a>
-            <a href="gods.html#sophos">Sophos</a>
-            <a href="gods.html#congeria">Congeria</a>
-            <a href="gods.html#aevum">Aevum</a>
+            <a href="https://bodiszabolcs.github.io/theworldofarv.github.io/gods.html#elder-deities">Elder Deities</a>
+            <a href="https://bodiszabolcs.github.io/theworldofarv.github.io/gods.html#aeros">Aeros</a>
+            <a href="https://bodiszabolcs.github.io/theworldofarv.github.io/gods.html#aecor">Aecor</a>
+            <a href="https://bodiszabolcs.github.io/theworldofarv.github.io/gods.html#skog">Skog</a>
+            <a href="https://bodiszabolcs.github.io/theworldofarv.github.io/gods.html#ignis">Ignis</a>
+            <a href="https://bodiszabolcs.github.io/theworldofarv.github.io/gods.html#frig">Frig</a>
+            <a href="https://bodiszabolcs.github.io/theworldofarv.github.io/gods.html#mercurius">Mercurius</a>
+            <a href="https://bodiszabolcs.github.io/theworldofarv.github.io/gods.html#kunser">Kunser</a>
+            <a href="https://bodiszabolcs.github.io/theworldofarv.github.io/gods.html#krieg">Krieg</a>
+            <a href="https://bodiszabolcs.github.io/theworldofarv.github.io/gods.html#dolus">Dolus</a>
+            <a href="https://bodiszabolcs.github.io/theworldofarv.github.io/gods.html#sophos">Sophos</a>
+            <a href="https://bodiszabolcs.github.io/theworldofarv.github.io/gods.html#congeria">Congeria</a>
+            <a href="https://bodiszabolcs.github.io/theworldofarv.github.io/gods.html#aevum">Aevum</a>
         </div>
     </div>    
     <!-- <div class="dropdown">
