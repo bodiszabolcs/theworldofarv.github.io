@@ -44,8 +44,8 @@ function menu () {
     <div class="dropdown">
         <a href="campaigns.html" class="dropbtn">Campaigns</a>
         <div class="dropdown-content">
-            <a href="/campaigns.html#birdsrest">Bird's Rest</a>
-            <a href="/campaigns.html#maidens">The Coalition of Get Maidens and Gold</a>
+            <a href="https://bodiszabolcs.github.io/theworldofarv.github.io/campaigns.html#birdsrest">Bird's Rest</a>
+            <a href="https://bodiszabolcs.github.io/theworldofarv.github.io/campaigns.html#maidens">The Coalition of Get Maidens and Gold</a>
         </div>
     </div>    
     <div class="dropdown">
@@ -93,10 +93,10 @@ function menu () {
     <div class="dropdown">
         <a href="events.html" class="dropbtn">Historical Events</a>
         <div class="dropdown-content">
-            <a href="/events.html#worldcreation">Creation of the World</a>
-            <a href="/events.html#wardragons">The War Aginst the Dragons</a>
-            <a href="/events.html#warmagic">The War on Magic</a>
-            <a href="/events.html#pirate">The Great Pirate Era</a>
+            <a href="https://bodiszabolcs.github.io/theworldofarv.github.io/events.html#worldcreation">Creation of the World</a>
+            <a href="https://bodiszabolcs.github.io/theworldofarv.github.io/events.html#wardragons">The War Aginst the Dragons</a>
+            <a href="https://bodiszabolcs.github.io/theworldofarv.github.io/events.html#warmagic">The War on Magic</a>
+            <a href="https://bodiszabolcs.github.io/theworldofarv.github.io/events.html#pirate">The Great Pirate Era</a>
         </div>
     </div>    
     <div class="dropdown">
